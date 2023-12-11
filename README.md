@@ -11,4 +11,4 @@ Giving more details of what you need helps. Also assigning a role to ChatGPT hel
 
 ## How to ensure the model doesn't invent extra features?
 
-Providing details in the prompt on limitation for the model. For example, "do not write on the image", "I NEED to test how the tool works with extremely simple prompts. DO NOT add any detail, just use it AS-IS:"
+Providing details in the prompt on limitation for the model. For example, "do not write on the image", "I NEED to test how the tool works with extremely simple prompts. DO NOT add any detail, just use it AS-IS:". Also decreasing the hyper-parameter, such as Temperature.
