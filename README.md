@@ -7,7 +7,7 @@ Successful Instagram post is written in informal style, it catches attention by 
 
 ## What prompt engineering techniques can improve quality?
 
-Giving more details of what you need helps. Also assigning a role to ChatGPT helps too. ("Imagine you are ..."). The prompt should not be too long, since it may forget specific details. Also providing examples of what you want to see as the result helps.
+Giving more details of what you need helps. Also assigning a role to ChatGPT helps too. ("Imagine you are ..."). The prompt should not be too long, since it may forget specific details. Also providing examples of what you want to see as the result helps. Fine-tunning on your own data might be helpful.
 
 ## How to ensure the model doesn't invent extra features?
 
